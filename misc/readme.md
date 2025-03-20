@@ -6,19 +6,8 @@
 
 * [Format is off on only some page numbers](https://github.com/tatpongkatanyukul/Courses/blob/main/misc/PageNumberFormatOff.zip)
   * Figure messes up the environment.
-    * Fix 1:
-      Change
-      ```
-       \begin{figure}
-       ... \textwidth
-      ```
-      to
-      ```
-       \begin{figure}
-       ... \columnwidth      
-      ```
-   * Fix 2:
-     Add
+   * Fix:
+     Add paragraph environment
      ```
      \paragraph{...}
      ```
