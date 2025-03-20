@@ -12,7 +12,8 @@
      \paragraph{}
      ```
   * ```\lstinputlisting``` goes across pages and messes up the format of page numbers.
-    * Break it into smaller pieces such that no piece goes across pages.
-    * Bring the code inside ```\begin{Exercise}```-```\end{Exercise}``` scope.
+    * Fix:
+      * Option 1: Break it into smaller pieces such that no piece goes across pages.
+      * Option 2: Bring the code inside ```\begin{Exercise}```-```\end{Exercise}``` scope.
       
 ---
