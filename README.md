@@ -9,12 +9,13 @@
 
 * ANN (Artificial neural networks)
 
-* OPT (Optimization: hard, soft, and emerging approach) --> Opimization, Search, and Intellectual Exploration
+* OSE (Optimization: hard, soft, and emerging approach)
+  * Numerical optimization 
   * Search
-    * Option 1: BFS search, heuristic search, local search;
-    * Option 2: Quantum search
+    * uninformed search, heuristic search, local search;
+    * Quantum search
 
-* Probability and probabilistic networks
+* CSX (Computation science and intellectual exploration)
    
 ---
 
